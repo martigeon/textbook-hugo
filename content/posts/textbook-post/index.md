@@ -334,6 +334,7 @@ I think it turned out pretty well for only three layout files (+ a shortcode fil
 There's a lot of room for improvement, of course. For example, I have not put any thought into optimizing each page for search engines (SEO). Subtle things like a favicon, too. Next steps.
 
 ## Useful links
+**Demo github page:** [here](https://martigeon.github.io/textbook-hugo/).
 
 - [Best-practices for content-heavy website design](https://constructive.co/insight/designing-for-density-best-practices-for-content-heavy-website-design/)
 - [normalize.css](https://github.com/necolas/normalize.css/)
