@@ -1,0 +1,13 @@
+baseURL = "https://martigeon.github.io/textbook-hugo"
+title = "My Website"
+publishDir = "docs"
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.highlight]
+  style = "pygments"
+  tabWidth = 2
